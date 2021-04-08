@@ -16,5 +16,5 @@ def is_palindrome(word, c):
 	else:
 		return "NO"	
 
-slovo = input("enter word \n")
+slovo = input("Enter Word \n")
 print(is_palindrome(slovo,0))
